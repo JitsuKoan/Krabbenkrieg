@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"autoRemovalTiming":0,"chanceByDamage":100,"iconIndex":1,"maxTurns":1,"message1":" ist gefallen!","message2":" wurde getötet!","message3":"","message4":" wurde wiederbelebt!","minTurns":1,"motion":3,"name":"Knockout","note":"Zustand #1 wird automatisch hinzugefügt, wenn HP 0 erreicht.","overlay":0,"priority":100,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":4,"stepsToRemove":100,"traits":[{"code":23,"dataId":9,"value":0}]}
+]

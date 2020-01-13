@@ -1,0 +1,50 @@
+\I[5348] Ja
+\I[4154] Nein
+
+\I[4152] Ja
+\I[4154] Nein
+
+
+
+RAR PASSwort 1277
+
+
+2809
+2814
+2810
+
+
+Zeppelin Minigame
+66871
+
+Kaya versucht mit Hilfe ihres Roboters K.R. I ein Zeppelin zu reparieren und die Insel auf der sie lebt zu verlassen.
+Erkunde die Insel und Sammel Holz, Erz und andere Materialien. Wie lange ist Kaya schon dort? Wie ist Kaya dorthin gelangt?
+Sie scheint in letzter Zeit sehr durcheinander zu sein! Die Reise wird ihr sicherlich helfen über einige Dinge ein klarerer Blick zu erlangen.
+~Systemanforderung~
+Betriebssystem: Dampfsoft 7/8//10
+Prozessor: Verdampfer Einheit 2 mit 2,4 Gigadampf oder besser
+Arbeitsspeicher: 4 Zahn-RAM-Räder oder mehr
+Grafik: Dampf-prismatische Projektionseinheit 4.1 mit dem neusten Dampfverteiler.
+Speicherplatz: ~140 Megadampf
+
+3272
+
+233 Grünes Buch
+
+3224 Kaya
+3225 Einheit
+3226 Planze
+6204 Wolke
+529 Prisma
+
+Kaya
+1234
+4962 Aya
+Nicodemus
+KR I
+
+
+5791
+3187
+
+
